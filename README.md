@@ -21,7 +21,7 @@ This Python program acts as a network path analyzer, combining the functionality
 ### How to Use:
 Prerequisites:
   - Python 3 installed (https://www.python.org/downloads/)
-  - ipwhois library installed using pip install ipwhois
+  - ipwhois library installed using ```pip install ipwhois```
 ### Running the Script:
 1. Save the program as network_path_analyzer.py.
 2. Open a terminal and navigate to the directory containing the script.
