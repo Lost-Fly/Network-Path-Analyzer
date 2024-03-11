@@ -40,6 +40,10 @@ IP address: 192.168.1.1, ASN: None, ISP: None, Country: None
 IP address: 8.8.8.8, ASN: AS15169, ISP: Google Public DNS, Country: None
 IP address: 216.58.217.206, ASN: AS16503, ISP: Level 3 Communications, Country: United States
 ```
+![image](https://github.com/Lost-Fly/Network-Path-Analyzer/assets/114507453/99384884-3418-4fe6-9121-f84884554d24)
+
+
+
 ### Further Notes:
 - The program handles potential errors during information retrieval and gracefully reports them.
 - The availability of ISP and country information depends on the WHOIS database entries for the respective ASNs.
